@@ -3,6 +3,7 @@ Tool for harvesting common names from SSL  certificates providing IP ranges  (sc
 #!/usr/bin/sh
 
 This script requires two main tools:
+
 `MASSCAN` https://github.com/robertdavidgraham/masscan 
 `CNDUMP` https://github.com/bruston/cndump 
 
