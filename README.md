@@ -9,6 +9,13 @@ This script requires two main tools:
 
 and some unix utilities.
 
+INSTALLATION:
+
+It is reccomended to install cloning main tools from github,
+if you are in a hurry and/or have already masscan (i.e. from KALI) you can use my CNDUMP binary (after flagging it secure for execution).
 
 
-USAGE: sudo maSSdump.sh xx.xx.xx.xx/xx
+
+USAGE: `sudo maSSdump.sh xx.xx.xx.xx/xx`
+
+
