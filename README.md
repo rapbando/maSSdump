@@ -1,5 +1,6 @@
 # maSSdump
-Tool for harvesting common names from SSL certificates providing IP ranges (fast reverse lookup scanner/enumerator for secure domains) 
+Tool for harvesting common names from SSL certificates providing IP ranges (fast reverse lookup scanner/enumerator for secure domains) that also grabs and saves banners if you say so.
+
 #!/usr/bin/sh
 
 This script requires two main tools:
