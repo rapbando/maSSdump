@@ -32,9 +32,9 @@
     ip=$( echo "$line" | cut -d ' ' -f 1 )
     whatweb $ip --log-brief=banners.massdump.txt
     printf  "\n------------------------------------------------------------------------------------\n"
-    echo -n "[+] BANNERS SAVED TO: banners.massdump.txt"
+    echo -n "[i] BANNERS SAVED TO: banners.massdump.txt"
   done < ${file}
  echo
  COUNT=$(grep -c ".*" out.massdump.txt)  
- echo -n $COUNT "[+] ENTRIES SAVED TO: out.massdump.txt"	       
+ echo -n "[i]" $COUNT "ENTRIES SAVED TO: out.massdump.txt"	       
  echo    
