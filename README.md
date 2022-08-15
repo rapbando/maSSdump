@@ -17,6 +17,6 @@ if you are in a hurry and/or have already masscan (i.e. from KALI) you can use m
 
 
 
-USAGE: `sudo maSSdump.sh xx.xx.xx.xx/yy` or `sudo maSSdump.sh xx.xx.xx.xx-xx.xx.xx.xx` 
+USAGE: `sudo maSSdump.sh ip/port` or `sudo maSSdump.sh ip_start-ip_stop` 
 
 
