@@ -18,6 +18,6 @@ if you are in a hurry and/or have already masscan (i.e. from KALI) you can use m
 
 
 ## USAGE: 
-`sudo maSSdump.sh ip/port` or `sudo maSSdump.sh ip_start-ip_stop` 
+`sudo maSSdump.sh ip/subnet` or `sudo maSSdump.sh ip_start-ip_stop` 
 
 
