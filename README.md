@@ -10,14 +10,14 @@ CNDUMP https://github.com/bruston/cndump
 
 and some unix utilities.
 
-## INSTALLATION:
+#### INSTALLATION:
 
 It is reccomended to install cloning main tools from github,
 if you are in a hurry and/or have already masscan (i.e. from KALI) you can use my CNDUMP binary here (after flagging it secure for execution).
 
 
 
-## USAGE: 
-`sudo maSSdump.sh ip/subnet` or `sudo maSSdump.sh ip_start-ip_stop` 
+#### USAGE: 
+`sudo bash maSSdump.sh ip/subnet` or `sudo bash maSSdump.sh ip_start-ip_stop` 
 
 
